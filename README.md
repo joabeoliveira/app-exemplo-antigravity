@@ -43,7 +43,17 @@ Ao gerar o seu PRD para ser usado com este template, utilize o seguinte prompt n
 
 ---
 
-## 🚀 Como Começar Localmente
+## � Requisitos do Sistema
+
+Antes de começar, certifique-se de ter as ferramentas abaixo instaladas em sua máquina:
+
+- **Node.js (v18 ou superior)**: É o ambiente de execução necessário para rodar o React e o Vite. [Baixe aqui](https://nodejs.org/).
+- **Gerenciador de Pacotes**: O Node já vem com o `npm`, mas você também pode usar `yarn` ou `pnpm` se preferir.
+- **Git**: Para clonar o repositório e gerenciar suas versões.
+
+---
+
+## �🚀 Como Começar Localmente
 
 1. **Pré-requisitos:** Certifique-se de ter o [Node.js](https://nodejs.org/) instalado.
 2. **Instalar Dependências:**
