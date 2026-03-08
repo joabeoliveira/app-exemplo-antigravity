@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="Vibe Coding Banner" src="banner.png" />
+<img width="1200" height="475" alt="Vibe Coding Banner" src="banner_new.png" />
 
 # 🚀 App Exemplo Antigravity - Vibe Coding para Serviço Público
 
